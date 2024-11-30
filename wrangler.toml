@@ -2,4 +2,3 @@
 name = "my-remix-project"
 compatibility_date = "2024-09-09"
 main = "./build/worker/index.js"
-assets = { directory = "./build/client" }
